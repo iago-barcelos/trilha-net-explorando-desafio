@@ -44,7 +44,6 @@ namespace DesafioProjetoHospedagem.Models
             {
                 valor = valor - (valor * 0.10m);
             }
-
             return valor;
         }
     }
